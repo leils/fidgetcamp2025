@@ -3,10 +3,9 @@ layout: page.njk
 title: Fidget Camp 2025
 ---
 # Fidget Camp 2025
+85 attendees 
 
-Workshops location: The Convent 
-
-Showcase location: Pebblebed 
+## Artwork
 
 ## Workshops 
 | Workshop Title | Description | Instructor(s) |
@@ -55,4 +54,3 @@ Showcase location: Pebblebed
 | Make Your Own Moss & Flower Island | we will be creating our own moss island/moss bed flower arrangements. i'll bring an assortment of dried flowers, fresh flowers, foliage and moss. i'll direct everyone through cutting out, soaking, and filling provided containers/trays with flower foam which will then be covered in a bed of moss. participants will be able to pick out their own assortment of flowers & greens to arrange | Chris Giang |
 | Overview of Natural San Francisco | We'll look at SF's geologic history, some native plants and animals, and find out how select neighborhoods turned into what they are now. There will be some rock samples, some old maps, and other fun stuff to investigate about SF's past. | Mason Zoyt |
 | Touch Sensitive Paintings | We can use conductive paint and/or fabric and make fun interactive works of art on a mini canvas! | Tru Narla |
-## Artwork
