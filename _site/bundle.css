@@ -7,6 +7,10 @@ body {
   font-family: "IBM Plex Mono", monospace;
 }
 
+table {
+  border-collapse: collapse;
+}
+
 td {
   border: 2px black solid;
   vertical-align: top;
