@@ -1,0 +1,19 @@
+{
+  "name": "fidgetcamp2025",
+  "version": "1.0.0",
+  "description": "archive of 2025 fidget camp showcase &amp; workshops",
+  "main": "index.js",
+  "scripts": {
+    "serve": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy",
+    "build-ghpages": "env NODE_ENV=production npx @11ty/eleventy",
+    "generate-post": ". ./scripts/generate-post.sh"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}

@@ -1,2 +1,2 @@
-# fidgetcamp2025
-archive of 2025 fidget camp showcase &amp; workshops
+# Heading
+Documenting Fidget Camp 2025

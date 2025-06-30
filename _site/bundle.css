@@ -1,0 +1,13 @@
+body {
+  background-color: bisque;
+  max-width: 60vw;
+  margin: 0 auto;
+  padding: 24px;
+  /* Optional: Adds some padding for better spacing */
+  font-family: "IBM Plex Mono", monospace;
+}
+
+td {
+  border: 2px black solid;
+  vertical-align: top;
+}
