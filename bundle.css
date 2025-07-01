@@ -51,7 +51,11 @@ td {
   }
 }
 
-@media only screen and (max-width: 1200px) {
+#workshop-link {
+  display: none;
+}
+
+@media only screen and (max-width: 800px) {
   body {
     max-width: 98vw;
     padding: 8px;
@@ -60,6 +64,10 @@ td {
   .maincolumn {
     grid-template-columns: 1fr;
     padding: 0;
+  }
+
+  #workshop-link {
+    display: block; 
   }
 
 }
