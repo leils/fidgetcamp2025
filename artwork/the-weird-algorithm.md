@@ -1,5 +1,5 @@
 ---
-tags: post
+tags: draft 
 title: "The Weird Algorithm"
 line: "parallel universe karaoke booth"
 artists: "Jamie Brew"

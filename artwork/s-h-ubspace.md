@@ -3,6 +3,7 @@ tags: post
 title: "S(h)ubspace"
 line: "A composite portrait of every Shub willing to attend a party for Shubs."
 artists: "Shubha Jagannatha"
+img: "s-h-ubspace.jpeg"
 ---
 
 One of the most fortunate—and bizarre—experiences I’ve had in San Francisco was attending a party where every attendee shared my name. Well, more or less.
