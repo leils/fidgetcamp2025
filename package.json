@@ -6,7 +6,7 @@
   "scripts": {
     "serve": "npx @11ty/eleventy --serve",
     "build": "npx @11ty/eleventy",
-    "build-ghpages": "env NODE_ENV=production npx @11ty/eleventy",
+    "build-ghpages": "npx @11ty/eleventy --pathprefix=/fidgetcamp2025/",
     "generate-post": ". ./scripts/generate-post.sh"
   },
   "keywords": [],
