@@ -1,17 +1,65 @@
 body {
-  background-color: bisque;
-  max-width: 60vw;
+  background-color: #FFF7ED;
+  max-width: 80vw;
   margin: 0 auto;
   padding: 24px;
   /* Optional: Adds some padding for better spacing */
-  font-family: "IBM Plex Mono", monospace;
+  /* font-family: "IBM Plex Mono", monospace; */
+  font-family: "Gaegu", sans-serif;
 }
 
 table {
   border-collapse: collapse;
+  /* border: 2px black solid; */
+}
+
+th {
+  border: 2px black solid;
+  padding: 6px;
 }
 
 td {
+  padding: 6px;
   border: 2px black solid;
   vertical-align: top;
+}
+
+.maincolumn {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+  /* spacing between items */
+  max-width: 90vw;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.card {
+  margin: 4px;
+
+  padding: 1rem;
+  border: black 1px dashed;
+
+  .thumbnail {
+    max-width: 300px;
+    margin: 0 auto;
+    height: auto;
+  }
+
+  .artists {
+    font-style: italic;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  body {
+    max-width: 98vw;
+    padding: 8px;
+  }
+
+  .maincolumn {
+    grid-template-columns: 1fr;
+    padding: 0;
+  }
+
 }

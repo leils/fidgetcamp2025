@@ -1,0 +1,14 @@
+<div class="card">
+    <h3>{{ post.data.title }}</h3>
+    {% if post.data.img %}
+      {# {% set path = post.filePathStem.substring(0, post.filePathStem.lastIndexOf("/") + 1) %} #}
+      {% set path = "/images/" %}
+      {% set thumb = post.data.img.substring(post.data.img.lastIndexOf("/") + 1) %}
+      <img class="thumbnail" src={{ path+thumb }} alt={{ post.data.title }}>
+    {% endif %}
+    <br>
+    {{ post.data.line}}
+    <br>
+    <p class="artists">{{ post.data.artists}}</p>
+    <br>
+</div>

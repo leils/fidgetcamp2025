@@ -1,0 +1,21 @@
+---
+layout: page.njk
+title: Fidget Camp 2025
+---
+<h1>Fidget Camp 2025</h1>
+<p> 85 campers, 500+ showcase attendees, June 21-29</p>
+
+<div class="maincolumn">
+    <div>
+        <h2>artwork</h2>
+        {%- for p in collections.post -%}
+            {% set post = p %}
+            {% include "card.njk" %}
+        {%- endfor -%}
+        {# {% renderFile "./artwork.njk" %} #}
+    </div>
+    <div>
+        {% renderFile "./workshops.md" %}
+    </div>
+</div>
+

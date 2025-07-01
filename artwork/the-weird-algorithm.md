@@ -1,0 +1,8 @@
+---
+tags: post
+title: "The Weird Algorithm"
+line: "parallel universe karaoke booth"
+artists: "Jamie Brew"
+---
+
+An interdimensional rhyme machine for exploring the vast possibility space of parody song lyrics. Choose any song and any text dataset, then try to sing fragments of that dataset matched syllable-for-syllable to the melody of that song. Featuring datasets sourced from Fidget Camp projects and workshops.

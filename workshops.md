@@ -1,13 +1,4 @@
----
-layout: page.njk
-title: Fidget Camp 2025
----
-# Fidget Camp 2025
-85 attendees 
-
-## Artwork
-
-## Workshops 
+## workshops 
 | Workshop Title | Description | Instructor(s) |
 |---|---|---|
 | Shitposting IRL | Learn how to make your printer other people's problem! We'll design flyers using marketing best practices to draw attention to silly things, then we will sprinkle these flyers throughout the streets of San Francisco. | Danielle Egan |

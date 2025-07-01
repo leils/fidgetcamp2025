@@ -8,12 +8,12 @@
     "build": "npx @11ty/eleventy",
     "build-ghpages": "env NODE_ENV=production npx @11ty/eleventy",
     "generate-post": ". ./scripts/generate-post.sh"
-
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@11ty/eleventy": "^3.1.2"
+    "@11ty/eleventy": "^3.1.2",
+    "@11ty/eleventy-img": "^6.0.4"
   }
 }
